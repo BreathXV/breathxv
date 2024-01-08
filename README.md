@@ -3,7 +3,7 @@
 </h1>
 
 ## :sassy_man:  About me
-- &#x1f1f3;&#x1f1f1;  Born and based in the UK
+- 🌍 Born and based in the UK
 - 🎹 I play piano
 - 📚 Avid book-reader
 - 🧑‍💻 Interested in Cyber Security, SaaS and software development!
