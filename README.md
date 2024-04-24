@@ -7,7 +7,7 @@
 - 🎹 I play piano
 - 📚 Avid book-reader
 - 🧑‍💻 Interested in Cyber Security, SaaS and software development!
-- ⚙️ Learning Rust, touching up on Python and ending with C#
+- ⚙️ Learning Rust, touching up on Python
 - 📽️ Star Wars and Game of Thrones
 
 ## 📊 Github Stats
