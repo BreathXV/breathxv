@@ -4,10 +4,10 @@
 
 ## :sassy_man:  About me
 - 🌍 Born and based in the UK
-- 🎹 I play piano
-- 📚 Avid book-reader
+- 🎹 I play piano and listen to lots of music
+- 📚 Reads a lot.
 - 🧑‍💻 Interested in Cyber Security, SaaS and software development!
-- ⚙️ Learning Rust, touching up on Python
+- ⚙️ Currently learning Rust
 - 📽️ Star Wars and Game of Thrones
 
 ## 📊 Github Stats
