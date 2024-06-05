@@ -20,8 +20,9 @@
 </p>
 
 ## ⚙️ Languages and Tools
-<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="Vlang" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3257125%2Ffile-type-vlang-icon-md.png&f=1&nofb=1&ipt=39e3be4b6ccdaa3d15eeb40f9d0f8d7cbce02588e5044261fe904a6e8d6ad97e&ipo=images" />
 <img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />
+<img align="left" alt="" width="26px" src="" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
 <img align="left" alt="SQLite" width="26px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" />
@@ -29,3 +30,4 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" />
