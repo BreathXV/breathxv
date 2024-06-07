@@ -20,7 +20,6 @@
 </p>
 
 ## ⚙️ Languages and Tools
-<img align="left" alt="Vlang" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3257125%2Ffile-type-vlang-icon-md.png&f=1&nofb=1&ipt=39e3be4b6ccdaa3d15eeb40f9d0f8d7cbce02588e5044261fe904a6e8d6ad97e&ipo=images" />
 <img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />
 <img align="left" alt="" width="26px" src="" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
