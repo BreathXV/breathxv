@@ -16,7 +16,7 @@
 
 ## 📊 Github Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"> <img height=170 src="https://github-readme-streak-stats.herokuapp.com?user=BreathXV&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"> <img height=170 src="https://streak-stats.demolab.com?user=BreathXV&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ## ⚙️ Languages and Tools
